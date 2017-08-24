@@ -1,1 +1,1 @@
-# Spring-JPA-Rest
+# Spring-React-Starter
